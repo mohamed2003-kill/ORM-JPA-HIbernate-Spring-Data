@@ -102,12 +102,12 @@ Le code dans la méthode `run` de `DemoApplication` exécute les opérations sui
 
 Ce projet démontre une gestion simple des entités avec Spring Data JPA, adaptable à H2 ou MySQL.!
 ## resultat:
-![result.PNG](../images/result.PNG)
+![result.PNG](src/main/images/result.PNG)
 ## H2:database: 
-![Capture2.PNG](../images/Capture2.PNG)
+![Capture2.PNG](src/main/images/Capture2.PNG)
 ## Select:H2:database:
- ![Capture3.PNG](../images/Capture3.PNG)
+ ![Capture3.PNG](src/main/images/Capture3.PNG)
 ## Mysql:
-![Capture4.PNG](../images/Capture4.PNG)
+![Capture4.PNG](src/main/images/Capture4.PNG)
 ## Select Mysql:
-![Capture5.PNG](../images/Capture5.PNG)
+![Capture5.PNG](src/main/images/Capture5.PNG)
